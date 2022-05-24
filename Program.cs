@@ -16,7 +16,7 @@ using System.Collections.Generic;
 // Iterate over the list and print "<Title> - by <Author>" or something like that for each iteration
 
 
-
+// create an empty list of book
 List<Book> AllBooks = new List<Book>();
 
 // type/class is called Book / object is called books
